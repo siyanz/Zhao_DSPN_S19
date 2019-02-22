@@ -1,0 +1,4 @@
+1) Partially correct. My response did get at the fact that knowing the data type will inform the class of distribution a random variable comes from. However, I think my response makes assumptions that's not necessarily true, e.g., quantitative random variable is more likely to be drawn from a Gaussian distribution.
+2) Correct.
+3) Correct.
+4) Partially correct. In my response, I forgot to mention that the last experiment produces a distribution most similar to a normal normal distribution as the Q-Q plot follows a diagonal line.
